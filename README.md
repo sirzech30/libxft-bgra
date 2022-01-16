@@ -6,5 +6,4 @@ libxft-bgra for dwm
 git clone https://github.com/sirzech30/libxft-bgra
 cd libxft-bgra
 makepkg -si
-
 ```
